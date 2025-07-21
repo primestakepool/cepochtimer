@@ -6,4 +6,7 @@ body {
   line-height: 0.2;
 }
 
+p {
+  white-space: nowrap;
+}
 
