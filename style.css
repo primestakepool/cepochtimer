@@ -5,3 +5,7 @@ body {
   text-align: left;
   left: 0;
 }
+
+p.small {
+  line-height: 0.8;
+}
