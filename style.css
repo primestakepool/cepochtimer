@@ -5,3 +5,13 @@ body {
   left: 0;
   line-height: 0.2;
 }
+
+/* Media query for mobile devices */
+  @media (max-width: 768px) {
+    body {
+      font-size: 14px; /* Adjust font size for smaller screens */
+    }
+    section p {
+      text-align: justify; /* Or center, right, etc. */
+    }
+  }
